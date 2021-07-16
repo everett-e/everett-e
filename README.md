@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Stuxe
-- 👀 I’m interested in learning DevOps Engineering.
-- 🌱 I’m currently learning containerization, microservices, and Python programming & scripting.
-
-<!---
-Stuxe/Stuxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm new to Github, I'm still learning programming.
+I have an IT background of 5 years. Well versed in networking and systems.
+Currently studying Python, Java, and Object Oriented Programming.
+Please check back later when I know what I'm talking about. :)
