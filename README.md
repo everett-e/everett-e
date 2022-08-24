@@ -1,2 +1,1 @@
-I hope you find my Github helpful with your scripting needs.
-Thank you,
+Just scripting my way through life. I hope you find some helpful scripts here! :)
