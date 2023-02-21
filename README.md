@@ -5,7 +5,7 @@ I have taken a turn to join the Development side of Tech!
 Please reach out to me at eedwardsen.tx@gmail.com for inquiries!
 
 IT Certifications:
-CCNA (Cisco Certified Network Associate) | 2021
+CCNA (Cisco Certified Network Associate) | 2021,
 CompTIA A+ | 2020 - 2023
 
 Thank you,
